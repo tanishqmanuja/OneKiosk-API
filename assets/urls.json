@@ -1,0 +1,15 @@
+{
+    "base": "https://webkiosk.jiit.ac.in",
+    "home": "https://webkiosk.jiit.ac.in/StudentFiles/StudentPage.jsp",
+    "login": "https://webkiosk.jiit.ac.in/CommonFiles/UseValid.jsp",
+    "logout": "https://webkiosk.jiit.ac.in/CommonFiles/SignOut.jsp",
+    "fees": "https://webkiosk.jiit.ac.in/StudentFiles/FAS/StudRegFee.jsp",
+    "grades": "https://webkiosk.jiit.ac.in/StudentFiles/Exam/StudentEventGradesView.jsp",
+    "points": "https://webkiosk.jiit.ac.in/StudentFiles/Exam/StudCGPAReport.jsp",
+    "attendance": "https://webkiosk.jiit.ac.in/StudentFiles/Academic/StudentAttendanceList.jsp",
+    "academic": "https://webkiosk.jiit.ac.in/StudentFiles/Academic/",
+    "marks": "https://webkiosk.jiit.ac.in/StudentFiles/Exam/StudentEventMarksView.jsp",
+    "subjects": "https://webkiosk.jiit.ac.in/StudentFiles/Academic/StudSubjectTaken.jsp",
+    "faculty": "https://webkiosk.jiit.ac.in/StudentFiles/Academic/StudSubjectFaculty.jsp",
+    "query": "?x=&exam="
+}
